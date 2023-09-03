@@ -1,0 +1,11 @@
+.centered-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertically center the content */
+    align-items: center; /* Horizontally center the content */
+    text-align: center; /* Center-align the text */
+    height: 100%; /* Ensure the div takes up the full height of its parent */
+  }
+  .skills_title{
+    margin: 20px 0 20px 0 ;
+  }
